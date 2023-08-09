@@ -22,10 +22,9 @@ Kurssin lopputulokset julkaistaan lähtökohtaisesti avoimella lisenssillä.
 
 Katso myös:
 
-* [opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF007AS3A)
-* [Scrum guides](https://scrumguides.org/)
-* [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-
+- [opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF007AS3A)
+- [Scrum guides](https://scrumguides.org/)
+- [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
 
@@ -33,95 +32,66 @@ Jos olet hankkinut tämän opintojakson mukaisen osaamisen työsi kautta, voit o
 
 Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](./ahot.md).
 
+# 📅 Kurssin aikataulu _(syksy 2023)_
 
-# 📅 Kurssin aikataulu *(kevät 2023)*
+Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 11-13:45 luokassa 5006 22.8. alkaen_.
 
-Kurssista järjestetään keväällä 2023 kaksi toteutusta. Kurssin yhteiset tapaamiset järjestetään viikoittain seuraavasti:
-
-**Toteutus SWD4TN024-3009:**
-
-* 3\. ja 4\. periodi
-
-    * Yhteiset tapaamiset **torstaisin 11-13.45 luokassa 5006**.
-    * Itsenäinen opiskeluaika **maanantaisin klo 14-16.45 luokassa 5006**.
-
-**Toteutus SWD4TN024-3013:**
-
-* 3\. periodi
-    * Yhteiset tapaamiset **torstaisin 8-10.45 luokassa 5006**.
-    * Itsenäinen opiskeluaika **tiistaisin klo 8-10.45 luokassa 5006**.
-
-* 4\. periodi
-    * Yhteiset tapaamiset **torstaisin 8-10.45 luokassa 5008**.
-    * Itsenäinen opiskeluaika **tiistaisin klo 8-10.45 luokassa 5008**.
-
-
-
-Itsenäisillä opiskelukerroilla opettajat eivät ole pääsääntöisesti tavoitettavissa.
-
-Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita  mahtuu kurssille 4 kappaletta. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa.
+Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita mahtuu kurssille 4 kappaletta. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa.
 
 Kunkin tiimin sprintin aloitukset ja katselmoinnit pyritään järjestämään toistuvasti samoina viikonpäivinä ja kellonaikoina, jolloin sprinttien pituudet pysyvät tasaisina.
 
 Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Kevään aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
 
+## Sprint 0: Projektien käynnistys _(21.8.-3.9.)_
 
+### 📅 22.8. tiimien muodostaminen
 
-## Sprint 0: Projektien käynnistys *(16.1.-29.1.)*
+- Kurssin käytäntöjen ja tavoitteiden käsittely.
+- Jakautuminen tiimeihin. Tiimin tavoitekoko on 5 henkilöä.
+- [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
+- [Esimerkkejä avoimen rajapinnan tarjoavista palveluista](avoimet-rajapinnat.md)
 
-### 📅 19.1. tiimien muodostaminen
+**Tehtävä**: 
 
-Kurssin käytäntöjen ja tavoitteiden käsittely.
+- Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
+- Projekti-ideoiden pohtiminen tiimin kesken.
 
-[Esimerkkejä avoimen rajapinnan tarjoavista palveluista](avoimet-rajapinnat.md)
+### 📅 29.8. "define sprint"
 
-**Tehtävä**: avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
+- Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
+- [Double Diamond -menetelmä (www.thoughtworks.com)](https://www.thoughtworks.com/insights/blog/double-diamond)
+- GitHub project -palvelun nopea intro
+  - YouTube: [Plan and track projects closer to your code #DemoDays](https://youtu.be/SI1ra-XHWHM)
+  - GitHub blog: [How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
+- Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
+- Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista
 
-* Jakautuminen tiimeihin. Tiimin tavoitekoko on 5 henkilöä.
-* [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
+**Tehtävä**: 
 
-&nbsp;
+- GitHub-repositorion luominen ja jakaminen opettajalle.
+- Projektin kuvaus GitHub-repositorion [README-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tulla ilmi seuraavat asiat:
+    - Lyhyt kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
+        - Mikä on projektin tarkoitus?
+        - Mitkä ovat projektin tärkeimmät ominaisuudet, eli mitä ohjelmiston käyttäjä voi sillä tehdä?
+        - Mitä toteutusteknologioita (esim. Java, Python, JavaScript) projektin toteutuksessa tullaan käyttämään 
+    - Ryhmän jäsenten nimet
+- User storyjen tai taskien valinta ensimmäiselle sprintille ja niiden lisääminen Github projects -taululle.
 
+Tehtävät tulee palauttaa sunnuntaihin 3.9. mennessä.
 
-### 📅 26.1. "define sprint"
-
-Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off
-
-[Double Diamond -menetelmä (www.thoughtworks.com)](https://www.thoughtworks.com/insights/blog/double-diamond)
-
-* GitHub project -palvelun nopea intro
-    * YouTube: [Plan and track projects closer to your code #DemoDays](https://youtu.be/SI1ra-XHWHM)
-    * GitHub blog: [How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
-* Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
-* Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista
-
-**Tehtävä**: define-vaiheen tulosten raportointi opettajille sunnuntai-iltaan mennessä. User storyjen tai taskien valinta ensimmäiselle sprintille. Scrum boardin jakaminen opettajille.
-
-&nbsp;
-
-
-## Sprint 1 *(30.1.-19.2.)*
+## Sprint 1 _(4.9.-24.9.)_
 
 Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa. Koko kurssin yhteisiä tilaisuuksia ei järjestetä, mutta ohjausta on saatavilla Teamsissa ja kampuksella lukujärjestyksen mukaisesti. Sprintti päättyy tiimikohtaisiin katselmointeihin.
 
-&nbsp;
+### 📅 5.9. Sprint 1:n käynnistys
 
+Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista.
 
-### 📅 2.2. Sprint 1:n käynnistys
-
-Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista pääsääntöisesti Teams-kanavilla.
-
-&nbsp;
-
-
-### 📅 9.2.
+### 📅 12.9.
 
 Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-&nbsp;
-
-
-### 📅 16.2. Sprint 1 katselmoinnit
+### 📅 19.9. Sprint 1 katselmoinnit
 
 Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (readme). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
@@ -131,26 +101,13 @@ Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehi
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
-&nbsp;
+## Sprint 2 _(25.9.-15.10.)_
 
-
-### 20.-26.2. Talvilomaviikko ⛷
-
-Ei kurssin yhteisiä tapaamisia.
-
-&nbsp;
-
-
-## Sprint 2 *(27.2.-19.3.)*
-
-### 📅 2.3. Sprint 2:n käynnistys
+### 📅 26.9. Sprint 2:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-&nbsp;
-
-
-### 📅 9.3.
+### 📅 3.10.
 
 Sprint 2 työskentely jatkuu. Opettajat nimeävät jokaiselle tiimille **vertaisryhmän**, jotka **katselmoivat toistensa lähdekoodit** ja antavat palautetta demoissa.
 
@@ -158,10 +115,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 
 [Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
-&nbsp;
-
-
-### 📅 16.3. Sprint 2 katselmoinnit
+### 📅 10.10. Sprint 2 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdollisuuksien mukaan sovelluksen tulisi olla ajossa tuotantoympäristöä vastaavassa ympäristössä**, tai tuotantoympäristön tulisi olla vähintään valittu perustellusti.
 
@@ -173,42 +127,27 @@ Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja ke
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 3 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
-&nbsp;
-
-
 ## Kurssin puolivälin itsearvioinnit
 
 Kurssin ensimmäisen itsearvioinnin kirjoittaminen ja oman oppimisen pohdinta. Tarkemmat ohjeet ja aikataulun löydät kurssin Teams-kanavalta projektien loppuvaiheessa.
 
-&nbsp;
-
-
-## 20.-26.3. Intensiiviviikko
+## 16.-22.10. Intensiiviviikko
 
 Ei kurssin yhteisiä tapaamisia.
 
-&nbsp;
+## Sprint 3 _(23.10.-12.11.)_
 
-
-## Sprint 3 *(27.3.-16.4.)*
-
-### 📅 30.3. Sprint 3:n käynnistys
+### 📅 24.10. Sprint 3:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-&nbsp;
-
-
-### 📅 6.4.
+### 📅 31.10.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
 
-&nbsp;
-
-
-### 📅 13.4. Sprint 3 katselmoinnit
+### 📅 7.11. Sprint 3 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
@@ -216,26 +155,17 @@ Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
 Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
-&nbsp;
-
-
-## Sprint 4 *(17.4.-7.5.)*
+## Sprint 4 _(13.11.-3.12.)_
 
 Tiimit pyrkivät viimeisessä sprintissä stabiloimaan projektinsa, eli he keskittyvät erityisesti toimintavarmuuden takaamiseen uusien ominaisuuksien jäädessä pienemmälle painoarvolle.
 
 Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
 
-&nbsp;
-
-
-### 📅 20.4. Sprint 4:n käynnistys
+### 📅 14.11. Sprint 4:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-&nbsp;
-
-
-### 📅 27.4.
+### 📅 21.11.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -243,26 +173,16 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 
 [Ohjeita projektin viimeistelyyn (dokumentointi, stabilointi ja tietoturva).](scrum/projektin-viimeistely.md)
 
-&nbsp;
-
-
-### 📅 4.5. Projektien loppudemot
+### 📅 28.11. Projektien loppudemot
 
 Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
 
 Muistakaa myös dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit ([GitHub issueina](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
-
-&nbsp;
-
-
 ## Itse- ja vertaisarvioinnit
 
 Kurssin itse- ja vertaisarviointien kirjoittaminen ja oman oppimisen pohdinta. Tarkemmat ohjeet ja aikataulun löydät kurssin Teams-kanavalta projektien loppuvaiheessa.
 
-&nbsp;
-
-
-------
+---
 
 Tämän sivuston ovat kehittäneet Teemu Havulinna ja Ismo Harjunmaa. Materiaali pohjautuu suuresti Ohto Rainion kurssimateriaaleihin.
