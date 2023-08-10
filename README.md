@@ -40,52 +40,56 @@ Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyk
 
 Kunkin tiimin sprintin aloitukset ja katselmoinnit pyritään järjestämään toistuvasti samoina viikonpäivinä ja kellonaikoina, jolloin sprinttien pituudet pysyvät tasaisina.
 
-Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Kevään aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
+Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Syksyn aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
 
 ## Sprint 0: Projektien käynnistys _(21.8.-3.9.)_
 
 ### 📅 22.8. tiimien muodostaminen
 
-- Kurssin käytäntöjen ja tavoitteiden käsittely.
-- Jakautuminen tiimeihin. Tiimin tavoitekoko on 5 henkilöä.
+- Kurssin käytäntöjen ja tavoitteiden käsittely
+- Ketterä ohjelmistokehitys ja Scrum
+- Jakautuminen tiimeihin. Tiimin tavoitekoko on 5 henkilöä
 - [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
 - [Esimerkkejä avoimen rajapinnan tarjoavista palveluista](avoimet-rajapinnat.md)
 
-**Tehtävä**: 
+#### ✏️ Tehtävä
 
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
-- Projekti-ideoiden pohtiminen tiimin kesken.
+- Projektiaiheiden pohtiminen tiimin kesken. [Aikaisempien lukukausien projekteja](./aiempia-projekteja.md) vilkaisemalla saa hyvän kuvan kurssin projektien laajuudesta.
 
 ### 📅 29.8. "define sprint"
 
-- Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
-- [Double Diamond -menetelmä (www.thoughtworks.com)](https://www.thoughtworks.com/insights/blog/double-diamond)
+- Vaatimusmäärittely ketterässä ohjelmistokehityksessä
+- Käyttäjätarinat
+  - Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
+- Scrum backlogit
 - GitHub project -palvelun nopea intro
   - YouTube: [Plan and track projects closer to your code #DemoDays](https://youtu.be/SI1ra-XHWHM)
   - GitHub blog: [How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
-- Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
-- Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista
 
-**Tehtävä**: 
+#### ✏️ Tehtävä
 
-- GitHub-repositorion luominen ja jakaminen opettajalle.
+- [GitHub-repositorion luominen](https://docs.github.com/en/get-started/quickstart/create-a-repo) ja jakaminen opettajalle.
 - Projektin kuvaus GitHub-repositorion [README-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tulla ilmi seuraavat asiat:
-    - Lyhyt kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
-        - Mikä on projektin tarkoitus?
-        - Mitkä ovat projektin tärkeimmät ominaisuudet, eli mitä ohjelmiston käyttäjä voi sillä tehdä?
-        - Mitä toteutusteknologioita (esim. Java, Python, JavaScript) projektin toteutuksessa tullaan käyttämään 
-    - Ryhmän jäsenten nimet
+  - Lyhyt kuvaus toteutettavasta sovelluksesta, jossa vastataan ainakin seuraaviin kysymyksiin:
+    - Mikä on sovelluksen tarkoitus?
+    - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
+    - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologiavalintojen ei tarvitse olla kiveen hakatut, vaan se voivat hyvin muuttua projektin edetessä.
+  - Ryhmän jäsenten nimet.
 - User storyjen tai taskien valinta ensimmäiselle sprintille ja niiden lisääminen Github projects -taululle.
 
-Tehtävät tulee palauttaa sunnuntaihin 3.9. mennessä.
+<!-- TODO: Moodle linkki -->
+
+**Projektin GitHub-repositorion linkki tulee palauttaa Moodlen-kautta sunnuntaihin 3.9. mennessä.**
 
 ## Sprint 1 _(4.9.-24.9.)_
 
-Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa. Koko kurssin yhteisiä tilaisuuksia ei järjestetä, mutta ohjausta on saatavilla Teamsissa ja kampuksella lukujärjestyksen mukaisesti. Sprintti päättyy tiimikohtaisiin katselmointeihin.
+Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa ja hyödyntävät ohjausta opetustilaisuuksissa ja Teams-kanavalla. Sprintti päättyy tiimikohtaisiin katselmointeihin.
 
 ### 📅 5.9. Sprint 1:n käynnistys
 
-Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista.
+- Harjoitellaan Git:in käyttöä tiimityöskentelyssä
+- Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista.
 
 ### 📅 12.9.
 
@@ -97,7 +101,7 @@ Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaa
 
 Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehittäjällä.
 
-**Sprint 2 planning**
+#### Sprint 2 planning
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
@@ -123,7 +127,7 @@ Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdol
 
 Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
-**Sprint 3 planning**
+#### Sprint 3 planning
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 3 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
