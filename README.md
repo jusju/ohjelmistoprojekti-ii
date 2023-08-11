@@ -28,7 +28,7 @@ Katso myös:
 
 ## Kurssin opettajat
 
-Jukka Juslin (jukka.jusling@haaga-helia.fi) ja Kalle Ilves (kalle.ilves@haaga-helia.fi)
+Jukka Juslin (jukka.juslin@haaga-helia.fi) ja Kalle Ilves (kalle.ilves@haaga-helia.fi)
 
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
 
