@@ -26,6 +26,10 @@ Katso myös:
 - [Scrum guides](https://scrumguides.org/)
 - [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
+## Kurssin opettajat
+
+Jukka Juslin (jukka.jusling@haaga-helia.fi) ja Kalle Ilves (kalle.ilves@haaga-helia.fi)
+
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
 
 Jos olet hankkinut tämän opintojakson mukaisen osaamisen työsi kautta, voit osoittaa osaamisesi tavanomaisen osallistumisen sijasta AHOT-menettelyllä. Osaamisen tunnistamiseksi ilmoittaudu tälle kurssille normaalisti, ja ole yhteydessä kurssin opettajiin AHOT-järjestelyjen osalta **viimeistään kurssin ensimmäisen viikon aikana**.
@@ -69,20 +73,17 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 #### ✏️ Tehtävä
 
-- [GitHub-repositorion luominen](https://docs.github.com/en/get-started/quickstart/create-a-repo) ja jakaminen opettajalle.
-- Projektin kuvaus GitHub-repositorion [README-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tulla ilmi seuraavat asiat:
-  - Alustava kuvaus toteutettavasta sovelluksesta, jossa vastataan ainakin seuraaviin kysymyksiin:
-    - Mikä on sovelluksen tarkoitus?
+- [Projektin GitHub-repositorion luominen](https://docs.github.com/en/get-started/quickstart/create-a-repo) ja jakaminen opettajalle.
+- Projektin kuvaus GitHub-repositorion [README-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tässä vaiheessa tulla ilmi ainakin seuraavat asiat:
+  - Alustava kuvaus projektista, jossa vastataan ainakin seuraaviin kysymyksiin:
+    - Projektin nimi.
+    - Mikä on toteuttavan sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään.
-  - Ryhmän nimi.
   - Ryhmän jäsenten nimet.
-  - README-tiedoston sisältö elää projektin edetessä, eli esimerkiksi projektin kuvaus voi hyvinkin muuttua kurssin aikana.
 - User storyjen tai taskien valinta ensimmäiselle sprintille ja niiden lisääminen Github projects -taululle.
 
-<!-- TODO: Moodle linkki -->
-
-**Projektin GitHub-repositorion linkki tulee palauttaa Moodlen-kautta sunnuntaihin 3.9. mennessä.**
+**Jokaisen tiimiläisen tulee palauttaa tiimin projektin GitHub-repositorion linkki [Moodlen-kautta](https://hhmoodle.haaga-helia.fi/mod/assign/view.php?id=2522804) sunnuntaihin 3.9. mennessä.**
 
 ## Sprint 1 _(4.9.-24.9.)_
 
