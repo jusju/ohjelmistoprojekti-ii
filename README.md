@@ -71,11 +71,13 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 - [GitHub-repositorion luominen](https://docs.github.com/en/get-started/quickstart/create-a-repo) ja jakaminen opettajalle.
 - Projektin kuvaus GitHub-repositorion [README-tiedostoon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Kuvauksesta tulee tulla ilmi seuraavat asiat:
-  - Lyhyt kuvaus toteutettavasta sovelluksesta, jossa vastataan ainakin seuraaviin kysymyksiin:
+  - Alustava kuvaus toteutettavasta sovelluksesta, jossa vastataan ainakin seuraaviin kysymyksiin:
     - Mikä on sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
-    - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Teknologiavalintojen ei tarvitse olla kiveen hakatut, vaan se voivat hyvin muuttua projektin edetessä.
+    - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään.
+  - Ryhmän nimi.
   - Ryhmän jäsenten nimet.
+  - README-tiedoston sisältö elää projektin edetessä, eli esimerkiksi projektin kuvaus voi hyvinkin muuttua kurssin aikana.
 - User storyjen tai taskien valinta ensimmäiselle sprintille ja niiden lisääminen Github projects -taululle.
 
 <!-- TODO: Moodle linkki -->
