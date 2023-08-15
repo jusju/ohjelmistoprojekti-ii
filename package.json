@@ -1,0 +1,14 @@
+{
+  "name": "ohjelmistoprojekti-ii",
+  "version": "1.0.0",
+  "description": "Tämä Git-repositorio sisältää Ohjelmistoprojekti II -kurssin dokumentaation ja tiedostot.",
+  "main": "index.js",
+  "scripts": {
+    "slides:build": "marp kalvot/**/*.md --pdf --allow-local-files"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marp-team/marp-cli": "^3.2.0"
+  }
+}
