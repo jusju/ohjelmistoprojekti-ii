@@ -81,7 +81,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
     - Projektin nimi.
     - Mikä on toteuttavan sovelluksen tarkoitus?
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
-    - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään.
+    - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Tässä on tärkeää, että jos esimerkiksi Palvelinohjelmointi eli nykyiseltä nimeltään Back end-ohjelmointi ei ole arvosanaa 5, niin tilanne ei parane vaihtamalla tekniikkastäkkiä. 
   - Ryhmän jäsenten nimet.
 - User storyjen tai taskien valinta ensimmäiselle sprintille ja niiden lisääminen Github projects -taululle.
 
