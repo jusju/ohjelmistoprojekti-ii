@@ -94,7 +94,8 @@ Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamise
 ### 📅 5.9. Sprint 1:n käynnistys
 
 - Harjoitellaan Git:in käyttöä tiimityöskentelyssä
-- Jos Git-taidot ovat päässeet ruostumaan, kannattaa käydä läpi [Versionhallinta: Git ja GitHub](https://tkt-lapio.github.io/git/)-materiaali läpi ennen opetuskertaa
+- Gitin ja githubin toiminta on kuvattu hyvin seuraavassa materiaalissa: [Versionhallinta: Git ja GitHub](https://tkt-lapio.github.io/git/)-materiaali läpi ennen opetuskertaa
+- Parityönä on suoritettava hyväksytysti Git harjoitus, jonka Jukka Juslin on tehnyt: https://jtjuslin.kapsi.fi/git-opetus/git-exercises-version11.pdf Git-harjoituksen suorittaneiden opiskelijanumerot tullaan listaamaan tähän kohtaan tällä sivulla ja vain heillä on mahdollista saada hyväksytty arvosana kurssista. 
 - Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista.
 
 ### 📅 12.9.
