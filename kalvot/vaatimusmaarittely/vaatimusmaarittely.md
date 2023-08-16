@@ -56,8 +56,7 @@ Tässä tilanteessa käyttäjätarina kannattaa _pilkkoa useaksi käyttäjätari
 
 - Scrumissa _product backlog_ on tuoteomistajan priorisoima lista käyttäjätarinoita
 - Product backlogin kärjessä eli korkeimmilla prioriteetilla olevat käyttäjätarinat valitaan toteutettavaksi seuraavan sprintin aikana
-- Product backlogille määritellään uusia käyttäjätarinoita tyypillisesti sprintin suunnittelu -tapaamisen aikana
-- Product backlogin käyttätarinoita lisätään, poistetaan, muokataan ja priorisoidaan jatkuvasti sprinttien edetessä
+- Product backlogin käyttäjätarinoita lisätään, muokataan ja priorisoidaan jatkuvasti sprinttien edetessä
 
 ---
 
@@ -67,9 +66,8 @@ Tässä tilanteessa käyttäjätarina kannattaa _pilkkoa useaksi käyttäjätari
 
 
 - Product backlogilta valitaan sprintin aikana toteutettavat käyttäjätarinat sprintin tehtävälistana toimivaan _sprint backlogiin_
-- Sprintin suunnittelu -tapaamisen aikana keskustellaan kehitystiimin ja tuoteomistajan kesken tulevan sprintin aikana toteutettavista käyttäjätarinoista
 - Kehitystiimi valitsee product backlogin kärjestä käyttäjätarinat, jotka kokevat pystyvänsä toteuttaa sprintin aikana
-- Kehitystiimi pilkkoo user storyt teknisen tason _tehtäviksi_ (task)
+- Kehitystiimi pilkkoo käyttäjätarinat teknisen tason _tehtäviksi_ (task)
 - Tehtävät lisätään sprint backlogille
 
 ---
@@ -93,4 +91,24 @@ Voisi jakaa esimerkiksi näihin teknisiin tehtäviin:
 ![bg fit right:50%](./sprint-backlog.png)
 
 - Sprint backlog organisoidaan usein taulukkomaiseksi _taskboardiksi_, jossa on yksi rivi kutakin sprinttiin valittua käyttäjätarinaa kohti
-- Käyttäjätarinaan liittyvät tehtävät kulkevat vasemmalta oikealle niiden statusta kuvaavien sarakkeiden, kuten "not started", "in progress", "done" kautta
+- Käyttäjätarinaan liittyvät tehtävät kulkevat vasemmalta oikealle niiden tilaa kuvaavien sarakkeiden, kuten "not started", "in progress", "done" kautta
+
+---
+
+# Sprintin suunnittelu
+
+- Sprintin suunnittelu -tapaamisen aikana Scrum-tiimi päivittää product backlogia tulevaa sprinttiä varten:
+    - Lisää tarvittaessa uusia käyttäjätarinoita, tai muokkaa olemassaolevia
+    - Priorisoi käyttäjätarinoita
+- Kun product backlogin on ajantasalla, valitsee kehittäjätiimi sopivan määrän käyttäjätarinoita seuraava sprinttiä varten
+- Valitut käyttäjätarinat pilkotaan kehittäjätiimin toimesta teknisiksi tehtäviksi ja tehtävät lisätään sprint backlogille
+- Kehittäjätiimi sopii sprintin työnjaosta: kuka ottaa minkäkin tehtävän vastuulleen
+
+---
+
+# Sprintin aikana
+
+- Sprintin aikana kehitystiimi päivittää jatkuvasti sprint backlogilla olevien tehtävien tilaa
+    - Esimerkiksi kun jokin tehtävä valmistuu, tulee se siirtää "done"-tilaan
+- Sprint backlogin tarkoitus on siis peilataa reaaliajassa sprintin edistymistä
+- Sprint backlogia kannattaa tarkkailla aktiivisesti, etenkin kehittäjätiimin tapaamisissa
