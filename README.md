@@ -62,7 +62,6 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 - Yksi kaikille tarjottu aihe on Haaga-Helian helpdeskin vetäjän ehdottama lentohintojen seuraaminen: https://www.youtube.com/watch?v=16A4tTeLq4g
 - Jos ideoita ei meinaa spontaanisti syntyä, niin opettajille on ehdottaa seuraavia aiheita: 1) sovellus verenpaineiden noin päivittäiseen mittaamiseen mahdollisesti pienellä graafisella kuvaajalla 2) Työtuntien nauhoitussovellus sitä varten, että kun tekee tuntityötä jollekin, niin on oltava tarkka kirjanpito siitä, että mitä on tehty, milloin ja kuinka pitkään. Tuntityössähän usein on jokin palkka, esimerkiksi 40 euroa. 3) Opiskelijan omaan käyttöön voisi tehdä juna/bussi/raitiovaunu/metro sovelluksen joka hakisi avoimista rajapinnoista tarkkaa tietoa yksittäisen opiskelijan tarpeisiin kustomoituna ja sivu olisi niin yksinkertainen, että se on helppo avata puhelimellakin.
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
-- Projektiaiheiden pohtiminen tiimin kesken. [Aikaisempien lukukausien projekteja](./aiempia-projekteja.md) vilkaisemalla saa hyvän kuvan kurssin projektien laajuudesta.
 
 ### 📅 29.8. "define sprint"
 
