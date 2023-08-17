@@ -66,7 +66,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 ### 📅 29.8. "define sprint"
 
-- [Opetustilaisuuden kalvot](./kalvot/vaatimusmaarittely/vaatimusmaarittely.pdff)
+- [Opetustilaisuuden kalvot](./kalvot/vaatimusmaarittely/vaatimusmaarittely.pdf)
 - Vaatimusmäärittely ketterässä ohjelmistokehityksessä
 - Käyttäjätarinat
   - Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
