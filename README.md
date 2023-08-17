@@ -50,6 +50,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 ### 📅 22.8. tiimien muodostaminen
 
+- [Opetustilaisuuden kalvot](./kalvot/johdanto/johdanto.pdf)
 - Kurssin käytäntöjen ja tavoitteiden käsittely
 - Ketterä ohjelmistokehitys ja Scrum
 - Jakautuminen tiimeihin. Tiimin tavoitekoko on 5 henkilöä
@@ -65,6 +66,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 ### 📅 29.8. "define sprint"
 
+- [Opetustilaisuuden kalvot](./kalvot/vaatimusmaarittely/vaatimusmaarittely.pdff)
 - Vaatimusmäärittely ketterässä ohjelmistokehityksessä
 - Käyttäjätarinat
   - Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
@@ -83,7 +85,8 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
     - Mitkä ovat sovelluksen tärkeimmät ominaisuudet, eli mitä sovelluksen käyttäjä voi sillä tehdä?
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Tässä on tärkeää, että jos esimerkiksi Palvelinohjelmointi eli nykyiseltä nimeltään Back end-ohjelmointi ei ole arvosanaa 5, niin tilanne ei parane vaihtamalla tekniikkastäkkiä. 
   - Ryhmän jäsenten nimet.
-- User storyjen tai taskien valinta ensimmäiselle sprintille ja niiden lisääminen Github projects -taululle.
+- User storyjen tai taskien valinta ensimmäiselle sprintille ja niiden lisääminen backlogiin, esim. GitHub projects -taululle
+- Varmistakaa, että _GitHub-repositorio ja backlog on julkinen_, jotta opettaja voi tarkastella sitä 
 
 **Jokaisen tiimiläisen tulee palauttaa tiimin projektin GitHub-repositorion linkki [Moodlen-kautta](https://hhmoodle.haaga-helia.fi/mod/assign/view.php?id=2522804) sunnuntaihin 3.9. mennessä.**
 
