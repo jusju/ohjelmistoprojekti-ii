@@ -71,7 +71,7 @@ Tässä tilanteessa user story kannattaa _pilkkoa useaksi user storyksi_:
 
 ---
 
-# User sotryn pilkkominen taskeiksi
+# User storyn pilkkominen taskeiksi
 
 Esimerkiksi tämän user storyn:
 
