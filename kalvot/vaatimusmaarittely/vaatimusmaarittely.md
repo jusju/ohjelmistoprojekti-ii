@@ -15,7 +15,7 @@
 # User story
 
 - Ketterän vaatimusmäärittelyn tärkein työväline on _user story_
-- User story kuvaat loppukäyttäjän kannalta _arvoa tuottavia toiminnallisuuksia_
+- User storyt kuvaat loppukäyttäjän kannalta _arvoa tuottavia toiminnallisuuksia_
 - User storyt kirjoitetaan _asiakkaan ymmärtävällä kielellä_, eli ne eivät saa sisältää turhan teknistä kieltä
 
 > ❌ Käyttäjänä voin lähettää HTTP-kutsun rekisteröitymisestä vastaavaan API-endpointtiin, joka lisää käyttäjätunnuksen ja salasanan tietokantatauluun "users"
