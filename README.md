@@ -199,4 +199,4 @@ Kurssin itse- ja vertaisarviointien kirjoittaminen ja oman oppimisen pohdinta. T
 
 ---
 
-Tämän sivuston ovat kehittäneet Teemu Havulinna ja Ismo Harjunmaa. Materiaali pohjautuu suuresti Ohto Rainion kurssimateriaaleihin.
+Tämän sivuston ovat kehittäneet Teemu Havulinna, Ismo Harjunmaa, Kalle Ilves ja Jukka Juslin. Materiaali pohjautuu suuresti Ohto Rainion kurssimateriaaleihin.
