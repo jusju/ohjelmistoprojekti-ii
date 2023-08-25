@@ -111,3 +111,12 @@ Voisi jakaa esimerkiksi näihin teknisiin taskeihin:
   - Esimerkiksi kun jokin taski valmistuu, tulee se siirtää "done"-tilaan
 - Sprint backlogin tarkoitus on siis peilataa reaaliajassa sprintin edistymistä ja edistää prosessin _läpinäkyvyyttä_
 - Sprint backlogia tarkkaillaan jatkuvasti ja siitä keskustellaan kehitystiimin tapaamisissa
+
+---
+
+# Backlogien hallintaan soveltuvia alustoja
+
+- Lähitöissä backlogit ovat tyypillisesti valkotaululle muodostettuja taskboardeja, joissa taskit ja user storyt ovat post-it -lappuja
+- Backlogien hallintaan verkossa löytyy useita palveluita, kuten _GitHub projects_, _Jira_ ja _Trello_
+- Näistä etenkin GitHub projects on saavuttanut suurta suosiota, koska se linkittyy luontevasti GitHubin versionhallintapalveluihin
+- Päättäkää tiimin kesken omaan työskentelyynne parhaiten sopiva alusta. Voitte myös halutessanne kokeilla ueseampaa alustaa kurssin aikana
