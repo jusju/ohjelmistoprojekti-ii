@@ -38,7 +38,7 @@ Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](./a
 
 # 📅 Kurssin aikataulu _(syksy 2023)_
 
-Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 11-13:45 luokassa 5006 22.8. alkaen_.
+Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 11:30-13:45 luokassa 5006 22.8. alkaen_.
 
 Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita mahtuu kurssille 4 kappaletta. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa.
 
@@ -199,4 +199,4 @@ Kurssin itse- ja vertaisarviointien kirjoittaminen ja oman oppimisen pohdinta. T
 
 ---
 
-Tämän sivuston ovat kehittäneet Teemu Havulinna ja Ismo Harjunmaa. Materiaali pohjautuu suuresti Ohto Rainion kurssimateriaaleihin.
+Tämän sivuston ovat kehittäneet Teemu Havulinna, Ismo Harjunmaa, Kalle Ilves ja Jukka Juslin. Materiaali pohjautuu suuresti Ohto Rainion kurssimateriaaleihin.
