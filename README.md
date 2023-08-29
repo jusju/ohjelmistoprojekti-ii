@@ -86,6 +86,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
     - Mitä toteutusteknologioita (esim. ohjelmointikieltä, tai sovelluskehystä kuten Spring Boot, tai Django) projektin toteutuksessa tullaan käyttämään. Tässä on tärkeää, että jos esimerkiksi Palvelinohjelmointi eli nykyiseltä nimeltään Back end-ohjelmointi ei ole arvosanaa 5, niin tilanne ei parane vaihtamalla tekniikkastäkkiä. 
   - Ryhmän jäsenten nimet.
 - User storyjen tai taskien valinta ensimmäiselle sprintille ja niiden lisääminen backlogiin, esim. GitHub projects -taululle
+- Linkki backlogiin GitHub-reposition README-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog on julkinen_, jotta opettaja voi tarkastella sitä 
 
 **Jokaisen tiimiläisen tulee palauttaa tiimin projektin GitHub-repositorion linkki [Moodlen-kautta](https://hhmoodle.haaga-helia.fi/mod/assign/view.php?id=2522804) sunnuntaihin 3.9. mennessä.**
