@@ -103,13 +103,14 @@ Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamise
 - Parityönä on suoritettava hyväksytysti Git harjoitus, jonka Jukka Juslin on tehnyt: https://jtjuslin.kapsi.fi/git-opetus/git-exercises-version11.pdf Git-harjoituksen suorittaneiden opiskelijanumerot tullaan listaamaan tähän kohtaan tällä sivulla ja vain heillä on mahdollista saada hyväksytty arvosana kurssista. 
 - Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista.
 
-### 📅 12.9.
+### 📅 12.9. ja 19.9.
 
 Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-### 📅 19.9. Sprint 1 katselmoinnit
+### 📅 26.9. Sprint 1 katselmoinnit
 
-Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (readme). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
+- Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (README).
+- Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
 Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehittäjällä.
 
