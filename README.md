@@ -109,8 +109,7 @@ Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hy�
 
 ### 📅 26.9. Sprint 1 katselmoinnit
 
-- Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (README).
-- Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
+Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (README). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
 Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehittäjällä.
 
@@ -132,7 +131,15 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 
 [Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
-### 📅 10.10. Sprint 2 katselmoinnit
+### 📅 10.10.
+
+Sprint 2 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
+
+### 16.-22.10. Intensiiviviikko
+
+Ei kurssin yhteisiä tapaamisia.
+
+### 📅 24.10. Sprint 2 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdollisuuksien mukaan sovelluksen tulisi olla ajossa tuotantoympäristöä vastaavassa ympäristössä**, tai tuotantoympäristön tulisi olla vähintään valittu perustellusti.
 
@@ -148,23 +155,19 @@ Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 3 ja tek
 
 Kurssin ensimmäisen itsearvioinnin kirjoittaminen ja oman oppimisen pohdinta. Tarkemmat ohjeet ja aikataulun löydät kurssin Teams-kanavalta projektien loppuvaiheessa.
 
-## 16.-22.10. Intensiiviviikko
-
-Ei kurssin yhteisiä tapaamisia.
-
 ## Sprint 3 _(23.10.-12.11.)_
 
 ### 📅 24.10. Sprint 3:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-### 📅 31.10.
+### 📅 31.10. ja 7.11.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
 
-### 📅 7.11. Sprint 3 katselmoinnit
+### 📅 14.11 Sprint 3 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
