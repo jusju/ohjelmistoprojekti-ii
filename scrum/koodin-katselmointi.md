@@ -11,10 +11,11 @@ Alkuvaiheessa koodin tai katselmointien laadun ei tarvitse olla häikäisevää,
 
 **TL;DR: tärkeimmät actionpointit:**
 
-1. Lähettäkää katselmointipyyntö vertaisryhmällenne Teamsiin vertaisryhmän kanavalle hyvissä ajoin ennen sprintin demoa.
-2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta.
+1. Tehkää katselmointipyyntö vertaisryhmällenne luomalla GitHub repositorioonne [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), jonka otsikko on "Katselmointipyyntö".
+2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta. Mainitkaa pyynnössä katselmoitavat tiedostostot ja tarpeen tullen niiden osat (esim. tietyt metodit luokasta).
 3. Kertokaa katselmointipyynnössänne lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet koodin toimivuuden.
-4. Katselmoikaa vertaisryhmänne koodi ja kirjoittakaa heidän Teams-kanavalleen katselmointipalaute ennen sprintin demoa.
+4. Vertaisryhmä katselmoi koodin ja kirjoittaa katselmointipalautteen issueseen [kommenttina](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-comment).
+5. Kun katselmointipalaute on kirjoitettu, issuen kommenteissa voi käydä palautteesta vapaamuotoista keskustelua.
 
 ## Käytännöt
 
