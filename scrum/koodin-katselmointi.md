@@ -14,12 +14,12 @@ Alkuvaiheessa koodin tai katselmointien laadun ei tarvitse olla häikäisevää,
 1. Tehkää katselmointipyyntö vertaisryhmällenne luomalla GitHub repositorioonne [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), jonka otsikko on "Katselmointipyyntö".
 2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta. Mainitkaa pyynnössä katselmoitavat tiedostostot ja tarpeen tullen niiden osat (esim. tietyt metodit luokasta).
 3. Kertokaa katselmointipyynnössänne lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet koodin toimivuuden.
-4. Vertaisryhmä katselmoi koodin ja kirjoittaa katselmointipalautteen issueseen [kommenttina](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-comment).
+4. Vertaisryhmä lukee katselmointipyynnön avamaalla "Katselmointipyyntö"-issuen repositorion "Issues"-tabilta, katselmoi koodin ja kirjoittaa katselmointipalautteen issueseen kommenttina. Kommentin voi kirjoittaa lomakkeella issuen alaosassa.
 5. Kun katselmointipalaute on kirjoitettu, issuen kommenteissa voi käydä palautteesta vapaamuotoista keskustelua.
 
 ## Käytännöt
 
-Koodin katselmointi tehdään versionhallintapalvelussa, joka valtaosalla tiimeistä on GitHub. Mikäli repositorionne ei ole julkinen, toimittakaa katselmoitavaksi haluamanne koodit vertaisryhmälle muulla tavoin, esimerkiksi kopioimalla koodi yksityiseen gistiin ([https://gist.github.com/](https://gist.github.com/)) ja jakamalla sen osoite vertaisryhmälle. Halutessanne voitte myös toimittaa katselmoitavan koodin tiedostona Teamsiin.
+<!-- Koodin katselmointi tehdään versionhallintapalvelussa, joka valtaosalla tiimeistä on GitHub. Mikäli repositorionne ei ole julkinen, toimittakaa katselmoitavaksi haluamanne koodit vertaisryhmälle muulla tavoin, esimerkiksi kopioimalla koodi yksityiseen gistiin ([https://gist.github.com/](https://gist.github.com/)) ja jakamalla sen osoite vertaisryhmälle. Halutessanne voitte myös toimittaa katselmoitavan koodin tiedostona Teamsiin. -->
 
 **Koodin katselmoimiseksi ryhmän ei tarvitse kloonata itselleen toisen ryhmän koodia eikä suorittaa sitä**. Tällä vältetään monimutkaiset ympäristöjen pystyttämiset ja riippuvuuksien asentamiset, jotka vievät aikaa varsinaiselta katselmoinnilta ja kehitysehdotuksilta. Ohjelman testaamisen sijaan keskitytte siis lukemaan koodia ja arvioimaan sen selkeyttä ja luettavuutta.
 
