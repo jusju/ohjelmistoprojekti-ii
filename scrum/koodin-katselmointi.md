@@ -15,7 +15,7 @@ Alkuvaiheessa koodin tai katselmointien laadun ei tarvitse olla häikäisevää,
 2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta. Mainitkaa pyynnössä katselmoitavat tiedostostot ja tarpeen tullen niiden osat (esim. tietyt metodit luokasta).
 3. Kertokaa katselmointipyynnössänne lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet koodin toimivuuden.
 4. Vertaisryhmä lukee katselmointipyynnön avamaalla "Katselmointipyyntö"-issuen repositorion "Issues"-tabilta, katselmoi koodin ja kirjoittaa katselmointipalautteen issueseen kommenttina. Kommentin voi kirjoittaa lomakkeella issuen alaosassa.
-5. Kun katselmointipalaute on kirjoitettu, issuen kommenteissa voi käydä palautteesta vapaamuotoista keskustelua.
+5. Kun katselmointipalaute on kirjoitettu, issuen kommenteissa voi käydä katselmoinnista vapaamuotoista keskustelua.
 
 ## Käytännöt
 
