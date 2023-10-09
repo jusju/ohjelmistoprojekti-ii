@@ -135,6 +135,10 @@ Vertaisryhmät tekevät toisilleen katselmointipyynnöt **ennen seuraavaa opetus
 
 Sprint 2 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
+**Vertaisryhmät** tekevät toisilleen viikon aikana koodikatselmoinnin ja toimittavat sen **ennen seuraavaa opetuskertaa**.
+
+[Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
+
 ### 16.-22.10. Intensiiviviikko
 
 Ei kurssin yhteisiä tapaamisia.
@@ -143,7 +147,7 @@ Ei kurssin yhteisiä tapaamisia.
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdollisuuksien mukaan sovelluksen tulisi olla ajossa tuotantoympäristöä vastaavassa ympäristössä**, tai tuotantoympäristön tulisi olla vähintään valittu perustellusti.
 
-**Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
+Tiimit käy yhdessä läpi koodikatselmoinnin ja sopii sen perusteella tehtävistä parannuksista.
 
 Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
