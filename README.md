@@ -135,7 +135,7 @@ Vertaisryhmät tekevät toisilleen katselmointipyynnöt **ennen seuraavaa opetus
 
 Sprint 2 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-**Vertaisryhmät** tekevät toisilleen viikon aikana koodikatselmoinnin ja toimittavat sen **ennen seuraavaa opetuskertaa**.
+Vertaisryhmät tekevät toisilleen viikon aikana koodikatselmoinnin ja toimittavat sen **ennen seuraavaa opetuskertaa**.
 
 [Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
