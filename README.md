@@ -155,10 +155,6 @@ Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja ke
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 3 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
-## Kurssin puolivälin itsearvioinnit
-
-Kurssin ensimmäisen itsearvioinnin kirjoittaminen ja oman oppimisen pohdinta. Tarkemmat ohjeet ja aikataulun löydät kurssin Teams-kanavalta projektien loppuvaiheessa.
-
 ## Sprint 3 _(23.10.-12.11.)_
 
 ### 📅 24.10. Sprint 3:n käynnistys
@@ -207,7 +203,7 @@ Muistakaa myös dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit
 
 ## Itse- ja vertaisarvioinnit
 
-Kurssin itse- ja vertaisarviointien kirjoittaminen ja oman oppimisen pohdinta. Tarkemmat ohjeet ja aikataulun löydät kurssin Teams-kanavalta projektien loppuvaiheessa.
+Kurssin itse- ja vertaisarviointien kirjoittaminen ja oman oppimisen pohdinta. Tarkemmat ohjeet ja aikataulun julkaistaan projektien loppuvaiheessa.
 
 ---
 
