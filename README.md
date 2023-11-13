@@ -169,13 +169,17 @@ Vertaisryhmät tekevät toisilleen katselmointipyynnöt **ennen seuraavaa opetus
 
 [Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
-### 📅 14.11 Sprint 3 katselmoinnit
+### 🔎 14.11 Sprint 3 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
 Vertaisryhmät tekevät toisilleen viikon aikana koodikatselmoinnin ja toimittavat sen **ennen seuraavaa opetuskertaa**.
 
 Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
+
+#### Sprint 4 planning
+
+Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 4 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
 ## Sprint 4 _(13.11.-3.12.)_
 
