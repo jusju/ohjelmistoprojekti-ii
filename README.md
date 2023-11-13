@@ -203,7 +203,7 @@ Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjau
 
 Tiimit reflektoivat omaa ja tiimin työskentelyä projektin aikana tekemällä **itse- ja vertaisarvioinnin**. Jokaisen tiimiläisen täytyy tehdä vertaisarviointi **ennen seuraavaa opetuskertaa**. Vertaisarvioinnin tekeminen on pakollista kurssinmerkinnän saamiseksi. Myöhässä palautettu vertaisarviointi vaikuttaa arvosteluun heikentävästi.
 
-Tiimit reflektoivat tiimin työskentelyä myös tekemällä projektistaan lyhyen [loppuraportin](loppuraportti.md).
+Tiimit reflektoivat työskentelyään myös tekemällä projektistaan lyhyen [loppuraportin](loppuraportti.md).
 
 ### 🔎 5.12. Projektien loppudemot
 
