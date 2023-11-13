@@ -96,7 +96,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa ja hyödyntävät ohjausta opetustilaisuuksissa ja Teams-kanavalla. Sprintti päättyy tiimikohtaisiin katselmointeihin.
 
-### 📅 5.9. Sprint 1:n käynnistys
+### 🏃 5.9. Sprint 1:n käynnistys
 
 - Harjoitellaan Git:in käyttöä tiimityöskentelyssä
 - Gitin ja githubin toiminta on kuvattu hyvin seuraavassa materiaalissa: [Versionhallinta: Git ja GitHub](https://tkt-lapio.github.io/git/)-materiaali läpi ennen opetuskertaa
@@ -107,7 +107,7 @@ Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamise
 
 Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-### 📅 26.9. Sprint 1 katselmoinnit
+### 🔎 26.9. Sprint 1 katselmoinnit
 
 Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (README). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
@@ -119,7 +119,7 @@ Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tek
 
 ## Sprint 2 _(25.9.-15.10.)_
 
-### 📅 26.9. Sprint 2:n käynnistys
+### 🏃 26.9. Sprint 2:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -143,7 +143,7 @@ Vertaisryhmät tekevät toisilleen viikon aikana koodikatselmoinnin ja toimittav
 
 Ei kurssin yhteisiä tapaamisia.
 
-### 📅 24.10. Sprint 2 katselmoinnit
+### 🔎 24.10. Sprint 2 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdollisuuksien mukaan sovelluksen tulisi olla ajossa tuotantoympäristöä vastaavassa ympäristössä**, tai tuotantoympäristön tulisi olla vähintään valittu perustellusti.
 
@@ -157,7 +157,7 @@ Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 3 ja tek
 
 ## Sprint 3 _(23.10.-12.11.)_
 
-### 📅 24.10. Sprint 3:n käynnistys
+### 🏃 24.10. Sprint 3:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -173,7 +173,7 @@ Vertaisryhmät tekevät toisilleen katselmointipyynnöt **ennen seuraavaa opetus
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
-**Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
+Vertaisryhmät tekevät toisilleen viikon aikana koodikatselmoinnin ja toimittavat sen **ennen seuraavaa opetuskertaa**.
 
 Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
@@ -183,7 +183,7 @@ Tiimit pyrkivät viimeisessä sprintissä stabiloimaan projektinsa, eli he keski
 
 Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
 
-### 📅 14.11. Sprint 4:n käynnistys
+### 🏃 14.11. Sprint 4:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -191,11 +191,17 @@ Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjau
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Viimeisessä sprintissä ei vertaiskatselmoida koodia, vaan projektin "yleisilmettä" painottuen erityisesti Git-repostitorioon ja dokumentaatioon.
-
 [Ohjeita projektin viimeistelyyn (dokumentointi, stabilointi ja tietoturva).](scrum/projektin-viimeistely.md)
 
-### 📅 28.11. Projektien loppudemot
+### 📅 28.11.
+
+Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
+
+Tiimit reflektoivat omaa ja tiimin työskentelyä projektin aikana tekemällä **itse- ja vertaisarvioinnin**. Jokaisen tiimiläisen täytyy tehdä vertaisarviointi **ennen seuraavaa opetuskertaa**. Vertaisarvioinnin tekeminen on pakollista kurssinmerkinnän saamiseksi. Myöhässä palautettu vertaisarviointi vaikuttaa arvosteluun heikentävästi.
+
+Tiimit reflektoivat tiimin työskentelyä myös tekemällä projektistaan lyhyen [loppuraportin](loppuraportti.md).
+
+### 🔎 5.12. Projektien loppudemot
 
 Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
 
