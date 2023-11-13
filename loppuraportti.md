@@ -8,5 +8,5 @@ Kirjoittakaa yhdessä projektin päätteeksi lyhyt loppuraportti, jossa käsitte
 - Missä osa-alueissa jäi parantamisen varaa?
 - Mitä opitte kurssin aikana? Mistä olisitte halunneet oppia lisää? Mikä tuntui turhalta?
 
-Vastatkaa loppuraportissanne näihin kysymyksiin. Lisätkää raporttiin myös jokaisen ryhmäläisen nimi. Palauttakaa raportti projektin repositorionne `loppuraportti.md` tiedostoon ja lisätkää linkki loppuraportti-tiedostoon repositorion `README.md` tiedostoon.
+Vastatkaa loppuraportissanne näihin kysymyksiin. Lisätkää raporttiin myös jokaisen ryhmäläisen nimi. Palauttakaa raportti projektin repositorionne `loppuraportti.md`-tiedostoon ja lisätkää linkki loppuraportti-tiedostoon repositorion `README.md`-tiedostoon.
 
