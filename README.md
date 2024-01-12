@@ -28,7 +28,7 @@ Katso myös:
 
 ## Kurssin opettajat
 
-Kalle Ilves (kalle.ilves@haaga-helia.fi) ja Jukka Juslin (jukka.juslin@haaga-helia.fi)
+Jukka Juslin (jukka.juslin@haaga-helia.fi) ja Jukka Remes (jukka.remes@haaga-helia.fi)
 
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
 
@@ -36,7 +36,7 @@ Jos olet hankkinut tämän opintojakson mukaisen osaamisen työsi kautta, voit o
 
 Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](./ahot.md).
 
-# 📅 Kurssin aikataulu _(syksy 2023)_
+# 📅 Kurssin aikataulu _(kevät 2024)_
 
 Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 11:30-13:45 luokassa 5006 22.8. alkaen_.
 
