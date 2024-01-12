@@ -38,7 +38,7 @@ Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](./a
 
 # 📅 Kurssin aikataulu _(kevät 2024)_
 
-Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 11:30-13:45 luokassa 5006 22.8. alkaen_.
+Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 8:00-10:30 luokassa 5006 16.1. alkaen_.
 
 Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita mahtuu kurssille 4 kappaletta. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa.
 
@@ -46,7 +46,7 @@ Kunkin tiimin sprintin aloitukset ja katselmoinnit pyritään järjestämään t
 
 Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Syksyn aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
 
-## Sprint 0: Projektien käynnistys _(21.8.-3.9.)_
+## Sprint 0: Projektien käynnistys _(16.1.-30.1.)_
 
 ### 📅 22.8. tiimien muodostaminen
 
@@ -64,7 +64,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 - Jos ideoita ei meinaa spontaanisti syntyä, niin opettajille on ehdottaa seuraavia aiheita: 1) sovellus verenpaineiden noin päivittäiseen mittaamiseen mahdollisesti pienellä graafisella kuvaajalla 2) Työtuntien nauhoitussovellus sitä varten, että kun tekee tuntityötä jollekin, niin on oltava tarkka kirjanpito siitä, että mitä on tehty, milloin ja kuinka pitkään. Tuntityössähän usein on jokin palkka, esimerkiksi 40 euroa. 3) Opiskelijan omaan käyttöön voisi tehdä juna/bussi/raitiovaunu/metro sovelluksen joka hakisi avoimista rajapinnoista tarkkaa tietoa yksittäisen opiskelijan tarpeisiin kustomoituna ja sivu olisi niin yksinkertainen, että se on helppo avata puhelimellakin.
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 
-### 📅 29.8. "define sprint"
+### 📅 23.1. "define sprint"
 
 - [Opetustilaisuuden kalvot](./kalvot/vaatimusmaarittely/vaatimusmaarittely.pdf)
 - Vaatimusmäärittely ketterässä ohjelmistokehityksessä
@@ -92,22 +92,22 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 **Jokaisen tiimiläisen tulee palauttaa tiimin projektin GitHub-repositorion linkki [Moodlen-kautta](https://hhmoodle.haaga-helia.fi/mod/assign/view.php?id=2522804) sunnuntaihin 3.9. mennessä.**
 
-## Sprint 1 _(4.9.-24.9.)_
+## Sprint 1 _(30.1.-13.2.)_
 
 Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa ja hyödyntävät ohjausta opetustilaisuuksissa ja Teams-kanavalla. Sprintti päättyy tiimikohtaisiin katselmointeihin.
 
-### 🏃 5.9. Sprint 1:n käynnistys
+### 🏃 30.1. Sprint 1:n käynnistys
 
 - Harjoitellaan Git:in käyttöä tiimityöskentelyssä
 - Gitin ja githubin toiminta on kuvattu hyvin seuraavassa materiaalissa: [Versionhallinta: Git ja GitHub](https://tkt-lapio.github.io/git/)-materiaali läpi ennen opetuskertaa
 - Parityönä on suoritettava hyväksytysti Git harjoitus, jonka Jukka Juslin on tehnyt: https://jtjuslin.kapsi.fi/git-opetus/git-exercises-version11.pdf Git-harjoituksen suorittaneiden opiskelijanumerot tullaan listaamaan tähän kohtaan tällä sivulla ja vain heillä on mahdollista saada hyväksytty arvosana kurssista. 
 - Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista.
 
-### 📅 12.9. ja 19.9.
+### 📅 6.2. ja 13.2.
 
 Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-### 🔎 26.9. Sprint 1 katselmoinnit
+### 🔎 13.2. Sprint 1 katselmoinnit
 
 Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (README). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
@@ -117,7 +117,7 @@ Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehi
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
-## Sprint 2 _(25.9.-15.10.)_
+## Sprint 2 _(27.2.-26.3.)_
 
 ### 🏃 26.9. Sprint 2:n käynnistys
 
