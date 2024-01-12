@@ -4,7 +4,7 @@
 
 Sujuvan tiimityöskentelyn osalta tämä kurssi on perinteisesti mennyt varsin mallikkaasti. Keskeytyksiä on tullut kohtuullisen vähän ja vertaispalautteissa suurin osa tiimeistä on tyytyväisiä kaikkien tiimiläisten osallistumiseen ja tuloksiin. "Vapaamatkustusta" on tapahtunut hyvin vähän, joskin toisinaan osalla tiimiläisistä on ollut selvästi erilaiset oppimis- ja arvosanatavoitteet kuin toisilla.
 
-Erityisesti etänä tiimityöskentelyn ja kommunikoinnin merkitys kasvaa, ja tiimien tuleekin löytää hyvät käytännöt projektin läpivientiin etätyön haasteista huolimatta. Etätyötä **saa käyttää tiistain tuntien suhteen vain sairaus tai työ tapauksissa**. Työskentely ei välttämättä suju täydellisesti heti ensimmäisessä sprintissä, ja siksi pidämme sprinttien välissä retrospektiivit ja kehitämme toimintaa. Retrospektiivissä ei kannata asettaa liian laajoja korjauksia jokaiseen asiaan vaan ennemmin fokusoitua esimerkiksi yhteen tai muutamaan asiaan, jotka oikeasti ovat muutettavissa. Seuraavan sprintin retrospektiivissä pitäisi olla follow-up, että onnistuttiinko vai ei kyseisessä tai kyseisissä muutoksissa.
+Erityisesti etänä tiimityöskentelyn ja kommunikoinnin merkitys kasvaa, ja tiimien tuleekin löytää hyvät käytännöt projektin läpivientiin mahdollisen etätyön haasteista huolimatta. Etätyötä **saa käyttää tiistain tuntien suhteen vain sairaus tai työ tapauksissa sekä muusta painavasta syystä**. Työskentely ei välttämättä suju täydellisesti heti ensimmäisessä sprintissä, ja siksi pidämme sprinttien välissä retrospektiivit ja kehitämme toimintaa. Retrospektiivissä ei kannata asettaa liian laajoja korjauksia jokaiseen asiaan vaan ennemmin fokusoitua esimerkiksi yhteen tai muutamaan asiaan, jotka oikeasti ovat muutettavissa. Seuraavan sprintin retrospektiivissä pitäisi olla follow-up, että onnistuttiinko vai ei kyseisessä tai kyseisissä muutoksissa.
 
 Aikaisemmilla teutuksilla esimerkiksi Discord ja VS Code:n live share ovat saaneet kehuja opiskelijoilta. Kannustamme lisäksi pitämään keskenäisissä tapaamisissa kameroita sekä mikrofoneja päällä ja vähintään lisäämään itsellenne profiilikuvan, jotta ette keskustele vain nimikirjaimille.
 
@@ -12,7 +12,7 @@ Aikaisemmilla teutuksilla esimerkiksi Discord ja VS Code:n live share ovat saane
 
 Tätä kurssia muotoillaan ja kehitetään sen edetessä, eikä kaikkia ole tarkoituksenmukaista pakottaa tiettyyn muottiin. Korkean tason oppimistavoitteet ja aikataulu ovat kuitenkin selvillä, ja niiden puitteissa lähdemme työstämään jokaiselle tiimille hyvää projektia.
 
-**Kurssin ensimmäisellä viikolla tavoittena on löytää tiimin aihe ja dataa**, joka tarjoaa sopivasti haastetta ja kiinnostaa useampaa opiskelijaa loppukurssin ajan. Lähdemmekin siitä liikkeelle **mitä te haluatte kurssilla oppia**. **Alustavan ideoinnin ja kartoituksen jälkeen jakaudumme tiimeihin.** Ideoinnin tueksi Käymme läpi esimerkkejä [aikaisemmista opintojaksoista](./aiempia-projekteja.md).
+**Kurssin ensimmäisellä viikolla tavoittena on löytää tiimin aihe ja dataa**, joka tarjoaa sopivasti haastetta ja kiinnostaa useampaa opiskelijaa loppukurssin ajan. Lähdemmekin siitä liikkeelle **mitä te haluatte kurssilla oppia**.     **Alustavan ideoinnin ja kartoituksen jälkeen jakaudumme tiimeihin.** Ideoinnin tueksi Käymme läpi esimerkkejä [aikaisemmista opintojaksoista](./aiempia-projekteja.md).
 
 Tarkempaa ideaa ja konseptia ehditään tarkentamaan seuraavalla viikolla, kun tiimit on koottu. Projektin suunnittelussa hyödynnämme define-vaihetta.
 
