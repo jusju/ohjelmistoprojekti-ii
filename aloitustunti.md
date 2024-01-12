@@ -57,18 +57,18 @@ Tällä kurssilla pyritään hyödyntämään toisten kehittämiä ratkaisuja, j
 
 ## Kurssin projekteihin soveltuvia aihealueita
 
-- Kuvantunnistus
-- Koneoppiminen ja tekoäly
-- Suosittelualgoritmit
-- Tekoälybotit
-  - Peli, keskustelu, jokin muu...
-- Luonnollisen kielen prosessointi (NLP)
-  - Esim. sentimenttianalyysi
-- Peli-enginet, kuten Unity
+- "Perus"portaali
+  - SQL tietokanta, backend ja frontend
+- Chatbot
+
+Jos olet/olette suorittaneet erinomaisesti kurssit Back End ohjelmointi, ohjelmistoprojekti 1 ja Front End ohjelmointi, voit harkita jopa seuraavia aiheita:
+
 - Käyttöliittymät
-  - Chatbot
+  - Chatbot tai keskustelubotti
   - Puheohjaus
-  - AR/VR
+- Käyttöliittymät
+  - Chatbot tai keskustelubotti
+  - Puheohjaus
 - Sulautetut järjestelmät / IoT
   - Arduino
   - ESP32 (MicroPython?)
