@@ -44,11 +44,11 @@ Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyk
 
 Kunkin tiimin sprintin aloitukset ja katselmoinnit pyritään järjestämään toistuvasti samoina viikonpäivinä ja kellonaikoina, jolloin sprinttien pituudet pysyvät tasaisina.
 
-Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Syksyn aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
+Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Kurssin aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
 
 ## Sprint 0: Projektien käynnistys _(16.1.-30.1.)_
 
-### 📅 22.8. tiimien muodostaminen
+### 📅 16.1. tiimien muodostaminen
 
 - [Opetustilaisuuden kalvot](./kalvot/johdanto/johdanto.pdf)
 - Kurssin käytäntöjen ja tavoitteiden käsittely
