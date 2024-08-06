@@ -36,7 +36,7 @@ Jos olet hankkinut tämän opintojakson mukaisen osaamisen työsi kautta, voit o
 
 Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](./ahot.md).
 
-# 📅 Kurssin aikataulu _(kevät 2024)_
+# 📅 Kurssin aikataulu _(syksy 2024)_
 
 Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 8:00-10:30 luokassa 5006 16.1. alkaen_.
 
@@ -46,9 +46,9 @@ Kunkin tiimin sprintin aloitukset ja katselmoinnit pyritään järjestämään t
 
 Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Kurssin aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
 
-## Sprint 0: Projektien käynnistys _(16.1.-30.1.)_
+## Sprint 0: Projektien käynnistys _(20.8.-3.9.)_
 
-### 📅 16.1. tiimien muodostaminen
+### 📅 20.8. tiimien muodostaminen
 
 - [Opetustilaisuuden kalvot](./kalvot/johdanto/johdanto.pdf)
 - Kurssin käytäntöjen ja tavoitteiden käsittely
@@ -64,7 +64,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 - Jos ideoita ei meinaa spontaanisti syntyä, niin opettajille on ehdottaa seuraavia aiheita: 1) sovellus verenpaineiden noin päivittäiseen mittaamiseen mahdollisesti pienellä graafisella kuvaajalla 2) Työtuntien nauhoitussovellus sitä varten, että kun tekee tuntityötä jollekin, niin on oltava tarkka kirjanpito siitä, että mitä on tehty, milloin ja kuinka pitkään. Tuntityössähän usein on jokin palkka, esimerkiksi 40 euroa. 3) Opiskelijan omaan käyttöön voisi tehdä juna/bussi/raitiovaunu/metro sovelluksen joka hakisi avoimista rajapinnoista tarkkaa tietoa yksittäisen opiskelijan tarpeisiin kustomoituna ja sivu olisi niin yksinkertainen, että se on helppo avata puhelimellakin.
 - Avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 
-### 📅 23.1. "define sprint"
+### 📅 27.8. "define sprint"
 
 - [Opetustilaisuuden kalvot](./kalvot/vaatimusmaarittely/vaatimusmaarittely.pdf)
 - Vaatimusmäärittely ketterässä ohjelmistokehityksessä
@@ -93,22 +93,22 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 **Jokaisen tiimiläisen tulee palauttaa tiimin projektin GitHub-repositorion linkki [Moodlen-kautta](https://hhmoodle.haaga-helia.fi/mod/assign/view.php?id=2758516) tiistai 23.1. klo 8 mennessä.**
 
-## Sprint 1 _(30.1.-13.2.)_
+## Sprint 1 _(3.9.-24.9.)_
 
 Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa ja hyödyntävät ohjausta opetustilaisuuksissa ja Teams-kanavalla. Sprintti päättyy tiimikohtaisiin katselmointeihin.
 
-### 🏃 30.1. Sprint 1:n käynnistys
+### 🏃 3.9. Sprint 1:n käynnistys
 
 - Harjoitellaan Git:in käyttöä tiimityöskentelyssä
 - Gitin ja githubin toiminta on kuvattu hyvin seuraavassa materiaalissa: [Versionhallinta: Git ja GitHub](https://tkt-lapio.github.io/git/)-materiaali läpi ennen opetuskertaa
 - Parityönä voi suorittaa Git harjoituksen, jonka Jukka Juslin on tehnyt: https://jtjuslin.kapsi.fi/git-opetus/git-exercises-version11.pdf Git-harjoituksen. Suoritus on vapaaehtoista. 
 - Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista.
 
-### 📅 6.2. ja 13.2.
+### 📅 10.9. ja 17.9.
 
 Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-### 🔎 13.2. Sprint 1 katselmoinnit
+### 🔎 24.9. Sprint 1 katselmoinnit
 
 Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (README). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
