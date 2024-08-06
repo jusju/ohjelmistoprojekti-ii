@@ -118,13 +118,13 @@ Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehi
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
-## Sprint 2 _(27.2.-12.3.)_ (2 viikon sprint)
+## Sprint 2 _(24.9.- 8.10.)_ (2 viikon sprint)
 
-### 🏃 27.2. Sprint 2:n käynnistys
+### 🏃 24.9. Sprint 2:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-### 📅 5.3.
+### 📅 1.10.
 
 Sprint 2 työskentely jatkuu. Opettajat nimeävät jokaiselle tiimille **vertaisryhmän**, jotka **katselmoivat toistensa lähdekoodit** ja antavat palautetta demoissa.
 
@@ -132,7 +132,7 @@ Vertaisryhmät tekevät toisilleen katselmointipyynnöt **ennen seuraavaa opetus
 
 [Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
-### 📅 12.3.
+### 📅 8.10.
 
 Sprint 2 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -140,7 +140,7 @@ Vertaisryhmät tekevät toisilleen viikon aikana koodikatselmoinnin ja toimittav
 
 [Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
-### 🔎 12.3. Sprint 2 katselmoinnit
+### 🔎 8.10. Sprint 2 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdollisuuksien mukaan sovelluksen tulisi olla ajossa tuotantoympäristöä vastaavassa ympäristössä**, tai tuotantoympäristön tulisi olla vähintään valittu perustellusti.
 
@@ -156,13 +156,13 @@ Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 3 ja tek
 
 Ei kurssin yhteisiä tapaamisia.
 
-## Sprint 3 _(26.3.-16.4.)_
+## Sprint 3 _(22.10.-12.11.)_
 
-### 🏃 26.3. Sprint 3:n käynnistys
+### 🏃 22.10. Sprint 3:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-### 📅 2.4. ja 9.4.
+### 📅 29.10. ja 5.11.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -170,7 +170,7 @@ Vertaisryhmät tekevät toisilleen katselmointipyynnöt **ennen seuraavaa opetus
 
 [Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
-### 🔎 16.4 Sprint 3 katselmoinnit
+### 🔎 12.11 Sprint 3 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
