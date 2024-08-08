@@ -38,7 +38,7 @@ Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](./a
 
 # 📅 Kurssin aikataulu _(syksy 2024)_
 
-Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 8:00-10:30 luokassa 5006 16.1. alkaen_.
+Kurssin yhteiset tapaamiset järjestetään _tiistaisin klo 11:00-13:45 luokassa 5006 20.8. alkaen_.
 
 Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita mahtuu kurssille 4 kappaletta. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa.
 
@@ -182,23 +182,23 @@ Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja ke
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 4 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
-## Sprint 4 _(16.4.-7.5.)_
+## Sprint 4 _(12.11.-7.5.)_
 
 Tiimit pyrkivät viimeisessä sprintissä stabiloimaan projektinsa, eli he keskittyvät erityisesti toimintavarmuuden takaamiseen uusien ominaisuuksien jäädessä pienemmälle painoarvolle.
 
 Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
 
-### 🏃 16.4. Sprint 4:n käynnistys
+### 🏃 12.11. Sprint 4:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-### 📅 23.4.
+### 📅 19.11.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 [Ohjeita projektin viimeistelyyn (dokumentointi, stabilointi ja tietoturva).](scrum/projektin-viimeistely.md)
 
-### 📅 30.4.
+### 📅 26.11.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -208,13 +208,13 @@ Lisätkää repositoryn README.md tiedostoon jokaisen ryhmäläisen kokonimi ja 
 
 Tiimit reflektoivat työskentelyään myös tekemällä projektistaan lyhyen [loppuraportin](loppuraportti.md).
 
-### 🔎 7.5. Projektien loppudemot
+### 🔎 3.12. Projektien loppudemot
 
 Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
 
 Muistakaa myös dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit ([GitHub issueina](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
-### 📅 14.5.
+### 📅 10.12.
 
 Varapäivämäärä mahdollisten sairastumisten varalta. 
 
