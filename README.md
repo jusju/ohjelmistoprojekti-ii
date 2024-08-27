@@ -88,7 +88,6 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
   - Ryhmän jäsenten nimet.
 - User storyjen valinta ensimmäiselle sprintille ja niiden jakaminen teknisiin taskeihin
 - User storyjen lisääminen product backlogille ja taskien lisääminen sprint backlogille
-  - Ks. user storyn kirjoitussyntaksi ideoineen Atlassianin sivuilta kohdasta  [User story template and examples](https://www.atlassian.com/agile/project-management/user-stories)
 - Linkki backlogeihin GitHub-reposiorion README-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog on julkinen_, jotta opettaja voi tarkastella sitä 
 
