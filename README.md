@@ -92,7 +92,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 - Linkki backlogeihin GitHub-reposiorion README-tiedostoon
 - Varmistakaa, että _GitHub-repositorio ja backlog on julkinen_, jotta opettaja voi tarkastella sitä 
 
-**Jokaisen tiimiläisen tulee palauttaa tiimin projektin GitHub-repositorion linkki [Moodlen-kautta](https://hhmoodle.haaga-helia.fi/mod/assign/view.php?id=2758516) tiistai 3.9. klo 8 mennessä.**
+**Jokaisen tiimiläisen tulee palauttaa tiimin projektin GitHub-repositorion linkki [Moodlen-kautta](https://hhmoodle.haaga-helia.fi/course/view.php?id=41382) tiistai 3.9. klo 8 mennessä.**
 
 ## Sprint 1 _(3.9.-24.9.)_
 
