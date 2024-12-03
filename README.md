@@ -207,7 +207,6 @@ Tiimit reflektoivat omaa ja tiimin työskentelyä projektin aikana tekemällä *
 
 Lisätkää repositoryn README.md tiedostoon jokaisen ryhmäläisen kokonimi ja linkki github-profiiliin.
 
-Tiimit reflektoivat työskentelyään myös tekemällä projektistaan lyhyen [loppuraportin](loppuraportti.md).
 
 ### 🔎 3.12. Projektien loppudemot
 
